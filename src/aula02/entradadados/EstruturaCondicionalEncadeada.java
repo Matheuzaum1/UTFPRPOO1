@@ -6,24 +6,24 @@ public class EstruturaCondicionalEncadeada {
 
 	public static void main(String[] args) {
 
-		Scanner input = new Scanner(System.in);
+		try (Scanner input = new Scanner(System.in)) {
+			System.out.println("Informe sua mï¿½dia final:");
+			double mediaFinal = input.nextDouble();
 
-		System.out.println("Informe sua média final:");
-		double mediaFinal = input.nextDouble();
+			if (mediaFinal >= 6.0) { // 1
 
-		if (mediaFinal >= 6.0) { // 1
-
-			System.out.println("Você está aprovado.");
-
-		} else {
-
-			if (mediaFinal >= 4.0) { // 2
-
-				System.out.println("Vocês está de recuperação.");
+				System.out.println("Vocï¿½ estï¿½ aprovado.");
 
 			} else {
 
-				System.out.println("Você está reprovado.");
+				if (mediaFinal >= 4.0) { // 2
+
+					System.out.println("Vocï¿½s estï¿½ de recuperaï¿½ï¿½o.");
+
+				} else {
+
+					System.out.println("Vocï¿½ estï¿½ reprovado.");
+				}
 			}
 		}
 	}
