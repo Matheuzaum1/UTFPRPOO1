@@ -41,6 +41,16 @@ public class Banco {
         }
         System.out.println("Conta não encontrada!");
     }
+
+    public void sacarConta (int numeroConta, double valor){
+        for (ContaBancaria contaBancaria : contas){
+            if (contaBancaria.getNumeroConta() == numeroConta){
+                contaBancaria.sacar(valor);
+                return;
+            }
+        }
+        System.out.println("Conta não encontrada!");
+    }
     
 
 

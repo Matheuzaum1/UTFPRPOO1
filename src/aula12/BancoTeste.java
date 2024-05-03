@@ -14,5 +14,7 @@ public class BancoTeste {
 		banco1.verificarSaldo(222);
 		banco1.depositarConta(222,500);
 		banco1.verificarSaldo(222);
+		banco1.sacarConta(222,100);
+		banco1.verificarSaldo(222);
 	}
 }
