@@ -1,0 +1,238 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ContaBancariaTeste",
+            "request": "launch",
+            "mainClass": "Extras.Lista4.Ex3.ContaBancariaTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "DisciplinaTeste",
+            "request": "launch",
+            "mainClass": "Extras.Lista4.Ex2.DisciplinaTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Ex1",
+            "request": "launch",
+            "mainClass": "Aula08.Ex1",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "ContaBancariaTeste",
+            "request": "launch",
+            "mainClass": "Aula09.ContaBancariaTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "PessoaTeste",
+            "request": "launch",
+            "mainClass": "Extras.Constructor.PessoaTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "AlunoTeste",
+            "request": "launch",
+            "mainClass": "Extras.Lista1.AlunoTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "CalculadoraTeste",
+            "request": "launch",
+            "mainClass": "Extras.Lista1.CalculadoraTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "CarroTeste",
+            "request": "launch",
+            "mainClass": "Extras.Lista1.CarroTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "NotebookTeste",
+            "request": "launch",
+            "mainClass": "Extras.Lista1.NotebookTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "PessoaTeste(1)",
+            "request": "launch",
+            "mainClass": "Extras.Lista1.PessoaTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "BibliotecaTeste",
+            "request": "launch",
+            "mainClass": "Extras.Lista2.BibliotecaTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "CarroTeste(1)",
+            "request": "launch",
+            "mainClass": "Extras.Lista2.CarroTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "NotebookTeste(1)",
+            "request": "launch",
+            "mainClass": "Extras.Lista2.NotebookTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "PessoaTeste(2)",
+            "request": "launch",
+            "mainClass": "Extras.Lista2.PessoaTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "TelevisaoTeste",
+            "request": "launch",
+            "mainClass": "Extras.Lista2.TelevisaoTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "CadastroFuncionarioTeste",
+            "request": "launch",
+            "mainClass": "Extras.Lista3.CadastroFuncionarioTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "FuncionarioTeste",
+            "request": "launch",
+            "mainClass": "Extras.Lista4.EX1.FuncionarioTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "PessoaTeste(3)",
+            "request": "launch",
+            "mainClass": "Extras.PessoaTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "PessoaTeste(4)",
+            "request": "launch",
+            "mainClass": "Extras.ToString.PessoaTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "PrimeiroPrograma",
+            "request": "launch",
+            "mainClass": "aula01.primeiroprograma.PrimeiroPrograma",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "SaidaDados",
+            "request": "launch",
+            "mainClass": "aula01.primeiroprograma.SaidaDados",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "EntradaDados",
+            "request": "launch",
+            "mainClass": "aula02.entradadados.EntradaDados",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaCondicionalEncadeada",
+            "request": "launch",
+            "mainClass": "aula02.entradadados.EstruturaCondicionalEncadeada",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "OperadorTernario",
+            "request": "launch",
+            "mainClass": "aula02.entradadados.OperadorTernario",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "CarroTeste(2)",
+            "request": "launch",
+            "mainClass": "aula03.classeobjeto.CarroTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "CarroTeste(3)",
+            "request": "launch",
+            "mainClass": "aula05.metodos.CarroTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "ContaTeste",
+            "request": "launch",
+            "mainClass": "aula06.variaveis.ContaTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "GalinhaTeste",
+            "request": "launch",
+            "mainClass": "aula06.variaveis.GalinhaTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "PessoaTeste(5)",
+            "request": "launch",
+            "mainClass": "aula10.PessoaTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "CadastroClienteTeste",
+            "request": "launch",
+            "mainClass": "aula11.CadastroClienteTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "PedidoTeste",
+            "request": "launch",
+            "mainClass": "aula11.PedidoTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "BancoTeste",
+            "request": "launch",
+            "mainClass": "aula12.BancoTeste",
+            "projectName": "OrientacaoObjeto1"
+        }
+    ]
+}
