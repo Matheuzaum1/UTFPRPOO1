@@ -1,6 +1,6 @@
-package aula16;
+package aula16.Abstract;
 
-public class Funcionario {
+public abstract class Funcionario {
     protected String nome;
     protected int cpf;
     protected Double salarioBase;
@@ -12,9 +12,9 @@ public class Funcionario {
         this.salarioBase = salarioBase;
     }
 
-    public Double calcularSalario(){
-        return this.salarioBase;
-    }
+    public abstract Double calcularSalario();
 
-    
+    public String getNome(){
+        return this.nome;
+    }
 }

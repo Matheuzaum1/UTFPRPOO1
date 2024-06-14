@@ -1,4 +1,4 @@
-package aula16;
+package aula16.Abstract;
 
 public class Horista extends Funcionario {
     private Double precoHora;

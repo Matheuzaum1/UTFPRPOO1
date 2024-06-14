@@ -1,4 +1,4 @@
-package aula16;
+package aula16.Abstract;
 
 public class Comissionado extends Funcionario {
     private Double totalVendas;

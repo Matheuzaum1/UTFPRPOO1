@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ChamadaFuncionarioTeste",
+            "request": "launch",
+            "mainClass": "aula16.Abstract.ChamadaFuncionarioTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "ChamadaFuncionarioTeste",
+            "request": "launch",
+            "mainClass": "aula16.ChamadaFuncionarioTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
             "name": "ContaBancariaTeste",
             "request": "launch",
             "mainClass": "Extras.Lista4.Ex3.ContaBancariaTeste",

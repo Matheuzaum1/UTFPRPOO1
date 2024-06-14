@@ -1,4 +1,4 @@
-package aula16;
+package aula16.Abstract;
 
 public class Assalariado extends Funcionario {
     private Double adicional;
