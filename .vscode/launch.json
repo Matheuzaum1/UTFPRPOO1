@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BancoTeste",
+            "request": "launch",
+            "mainClass": "Extras.Lista5.Ex1.BancoTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "Ex1",
+            "request": "launch",
+            "mainClass": "aula12.Ex1",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
+            "name": "PetshopTeste",
+            "request": "launch",
+            "mainClass": "Extras.Lista4.Ex4.PetshopTeste",
+            "projectName": "OrientacaoObjeto1"
+        },
+        {
+            "type": "java",
             "name": "ContaBancariaTeste",
             "request": "launch",
             "mainClass": "Extras.Lista4.Ex3.ContaBancariaTeste",
