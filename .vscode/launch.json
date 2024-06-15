@@ -6,13 +6,20 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "BancoTeste",
             "request": "launch",
             "mainClass": "Extras.Lista5.Ex1.BancoTeste",
+=======
+            "name": "ChamadaFuncionarioTeste",
+            "request": "launch",
+            "mainClass": "aula16.Abstract.ChamadaFuncionarioTeste",
+>>>>>>> 2ee8761d453496e1d87e3d1d61df561b2929848c
             "projectName": "OrientacaoObjeto1"
         },
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "Ex1",
             "request": "launch",
             "mainClass": "aula12.Ex1",
@@ -23,6 +30,11 @@
             "name": "PetshopTeste",
             "request": "launch",
             "mainClass": "Extras.Lista4.Ex4.PetshopTeste",
+=======
+            "name": "ChamadaFuncionarioTeste",
+            "request": "launch",
+            "mainClass": "aula16.ChamadaFuncionarioTeste",
+>>>>>>> 2ee8761d453496e1d87e3d1d61df561b2929848c
             "projectName": "OrientacaoObjeto1"
         },
         {
