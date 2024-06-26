@@ -16,8 +16,9 @@ public class Empregado extends Funcionario {
     public void setCarteiraTrabalho(int carteiraTrabalho) {
         this.carteiraTrabalho = carteiraTrabalho;
     }
-    public void ImprimirDados(){
-        super.ImprimirDados();
+    @Override
+    public void imprimirDados(){
+        super.imprimirDados();
         System.out.println("Carteira de trabalho: "+carteiraTrabalho);
     }
 }

@@ -15,8 +15,8 @@ public Estagiario(String nome, String endereco, String dataInicio, String funcao
     public void setCiee(int ciee) {
         this.ciee = ciee;
     }
-    public void ImprimirDados() {
-        super.ImprimirDados();
+    public void imprimirDados() {
+        super.imprimirDados();
         System.out.println("CIEE: " + ciee);
     }
 }

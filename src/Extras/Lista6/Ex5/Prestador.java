@@ -21,7 +21,8 @@ public class Prestador extends Colaborador {
     public void setTipoServico(String tipoServico) {
         this.tipoServico = tipoServico;
     }
-    public void ImprimirDados() {
+    @Override
+    public void imprimirDados() {
         System.out.println("==========Prestador==========");
         System.out.println("Nome: " + getNome());
         System.out.println("Endereço: " + getEndereco());

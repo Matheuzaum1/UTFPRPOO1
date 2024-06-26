@@ -16,7 +16,7 @@ public class Autonomo extends Prestador {
     public void setCpf(long cpf) {
         this.cpf = cpf;
     }
-    
+    @Override
     public void imprimirDados() {
         System.out.println("=====================");
         System.out.println("Nome: " + nome);

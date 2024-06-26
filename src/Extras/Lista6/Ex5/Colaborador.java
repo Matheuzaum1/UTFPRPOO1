@@ -30,7 +30,7 @@ public class Colaborador {
         this.dataInicio = dataInicio;
     }
 
-    public void ImprimirDados(){
+    public void imprimirDados(){
         System.out.println("==========Colaborador==========");
         System.out.println("Nome: " + this.getNome());
         System.out.println("Endereço: " + this.getEndereco());

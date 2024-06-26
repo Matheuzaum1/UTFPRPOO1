@@ -16,8 +16,9 @@ public class Empresa extends Prestador {
     public void setCnpj(long cnpj) {
         this.cnpj = cnpj;
     }
-    public void ImprimirDados() {
-        super.ImprimirDados();
+    @Override
+    public void imprimirDados() {
+        super.imprimirDados();
         System.out.println("CNPJ: " + cnpj);
     }
 }

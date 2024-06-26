@@ -21,8 +21,8 @@ public Funcionario(String nome, String endereco, String dataInicio, String funca
     public void setSalario(double salario) {
         this.salario = salario;
     }
-
-    public void ImprimirDados() {
+    @Override
+    public void imprimirDados() {
         System.out.println("==========Funcionario==========");
         System.out.println("Nome: " + this.getNome());
         System.out.println("Endereco: " + this.getEndereco());
